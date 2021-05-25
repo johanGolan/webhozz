@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Webhozz</string>
+
+
+    <!--  HomeActivity  -->
+    <string name="label_texview_location">TextView Lokasi!</string>
+    <string name="label_texview_bodynumber">TextView Nomor Rangka!</string>
+
+    <!-- LoginActivity   -->
+    <string name="label_login_title">Webhozz Login</string>
+    <string name="label_login_email">Email:</string>
+    <string name="label_login_password">Password:</string>
+    <string name="label_login_hint_email">Masukkan email ...</string>
+    <string name="label_login_hint_password">Masukkan password ...</string>
+    <string name="label_login_signin">Sign in</string>
+    <string name="forgot_password">Forgot Password</string>
+
+</resources>
